@@ -20,7 +20,7 @@
 
     0.9.0 버전 이상의 seaborn에서는 factorplot를 더이상 지원하지 않음
 
-    대신 catplot를 지원하며 factorplot를 구현하기 위해서는 kinf = "point"를 추가해줘야 함
+    대신 catplot를 지원하며 factorplot를 구현하기 위해서는 kind = "point"를 추가해줘야 함
 
 ### violinplot
 
